@@ -9,4 +9,5 @@ Thanks for stopping by.
 ### Projects
 
 eBox - Minecraft server (https://ebox.tk)
+
 skript-cli - Fork of Skript-CLI (znci/skript-cli)
