@@ -1,2 +1,2 @@
 # .github
-org stuffs
+Community health files for znci.
