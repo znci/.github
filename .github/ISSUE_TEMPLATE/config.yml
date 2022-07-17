@@ -3,9 +3,3 @@ contact_links:
   - name: Security Issues
     url: mailto:hello@znci.dev
     about: Please do not report security issues here. Click this link to email us and we'll get your issue sorted out.
-  - name: General Support
-    url: mailto:support@znci.dev
-    about: If your inquiry is not directly at this project, please email our support team.
-  - name: Website
-    url: https://znci.dev
-    about: Please check the project's FAQ before submitting an issue, and check all open issues.
