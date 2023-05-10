@@ -1,9 +1,7 @@
-## Hey There! 👋
+# 👋 Hey, we're znci.
 
-znci is a team of developers who want to make the web just a little bit better.
+We build software for the better web.
 
-### Contact
+## Get in touch
 
-Need to send a message?
-- Email: [hello@znci.dev](mailto:hello@znci.dev)
-- Discord: [click me!](https://discord.gg/keY4zJ9Xq9)
+You can contact us via email at [hello@znci.dev](mailto:hello@znci.dev)
