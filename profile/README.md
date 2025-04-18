@@ -8,8 +8,8 @@ We build software to make the web a better place.
 
 ## Our Projects
 Here are some of the projects we're working on right now!
-* 🚀 [Rocket](https://github.com/znci/rocket) is a Minecraft plguin that allows users to easily write their own scripts in Lua to customize their servers.
-* 🧵 [Twine](https://github.com/znci/twine) is a wrapper around LuaJ that makes the API less cumbersome to use. It is a critical component of Rocket.
+* 🚀 [Rocket](https://github.com/LuaRocket/rocket) is a Minecraft plguin that allows users to easily write their own scripts in Lua to customize their servers.
+* 🧵 [Twine](https://github.com/LuaRocket/twine) is a wrapper around LuaJ that makes the API less cumbersome to use. It is a critical component of Rocket.
 * 🥭 Mango is a in development project that makes it easier for users to make their own Minecraft servers they have full access to and join them to the Mango network.
 
 ## Our Team
